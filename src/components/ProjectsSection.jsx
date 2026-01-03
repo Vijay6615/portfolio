@@ -14,7 +14,7 @@ export default function ProjectsSection() {
 
         {/* Project 1 */}
         <a
-          href="https://newecommerce-ten.vercel.app/"  // 👉 yahan apna link daalo
+          href="https://navodaya-puja.vercel.app/"  // 👉 yahan apna link daalo
           target="_blank"
           rel="noopener noreferrer"
           className="projectLink"
@@ -38,7 +38,7 @@ export default function ProjectsSection() {
 
         {/* Project 2 */}
         <a
-          href="https://example-iot-project.com"   // 👉 yahan IoT project link
+          href="https://real-time-stock-protfolio-56l6.vercel.app/"   // 👉 yahan IoT project link
           target="_blank"
           rel="noopener noreferrer"
         >
