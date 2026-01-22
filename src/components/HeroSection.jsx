@@ -23,7 +23,7 @@ export default function HeroSection() {
         </a>
 
         {/* LinkedIn */}
-        <a href="YOUR_LINKEDIN_LINK" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/vijayshukla-it" target="_blank" rel="noopener noreferrer">
           <i className="fa-brands fa-linkedin"></i>
         </a>
 

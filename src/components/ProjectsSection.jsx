@@ -44,36 +44,36 @@ export default function ProjectsSection() {
         >
           <div className="projectCard fadeInDelay">
             <img
-              src="https://images.unsplash.com/photo-1580281658622-8ff61f5d8ecd"
-              alt="IoT Vitals Monitor"
+              src="/project2.jpg"
+              alt="Real-Time Stock Tracker"
               className="projectImg"
             />
 
-            <h3 className="projectTitle">IoT Vitals Monitor</h3>
+            <h3 className="projectTitle">Real-Time Stock Tracker</h3>
 
             <p className="projectDesc">
               Wearable monitoring device with remote patient alerts and cloud
               dashboard.
             </p>
 
-            <p className="projectTags">IoT • Cloud • Healthcare</p>
+            <p className="projectTags">IoT • Cloud • Stock Market</p>
           </div>
         </a>
 
         {/* Project 3 */}
         <a
-          href="https://education-strategy-site.com"   // 👉 yahan education project link
+          href="https://mineclaw.vercel.app/"   // 👉 yahan education project link
           target="_blank"
           rel="noopener noreferrer"
         >
           <div className="projectCard fadeInDelay2">
             <img
-              src="https://images.unsplash.com/photo-1513258496099-48168024aec0"
-              alt="Education Expansion Strategy"
+              src="/project3.jpg"
+              alt="Drug Prevention and Awareness System"
               className="projectImg"
             />
 
-            <h3 className="projectTitle">Education Expansion Strategy</h3>
+            <h3 className="projectTitle">Drug Prevention and Awareness System</h3>
 
             <p className="projectDesc">
               Strategic roadmap increasing school footprint across 5 regions
